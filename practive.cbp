@@ -33,6 +33,10 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="plant.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plant.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
